@@ -1,0 +1,8 @@
+telethon
+pandas
+wordcloud
+matplotlib
+pillow
+numpy
+seaborn
+python-dotenv
