@@ -22,10 +22,9 @@ project/
 ├── data/
 │   └── messages.csv
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── Project_TGK.ipynb
 ├── scripts/
-│   └── fetch_data.py
-├── .env.example
+│   └── Project_scrips.py
 ├── requirements.txt
 └── README.md
 ```
