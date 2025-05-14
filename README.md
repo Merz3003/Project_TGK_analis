@@ -36,6 +36,16 @@ project/
 3. Создайте `.env` файл по примеру `.env.example` и укажите `API_ID`, `API_HASH`
 4. Запустите `fetch_data.py` или `analysis.ipynb`
 
+
+## Инструкция по запуску дышборда 
+1. Установить все файлы директории
+2. В терминале установить стримлит, если не установлен (pip install streamlit)
+3. Дальше в терминале установить нужную деректорию c помощью cd, папку Project_TGK_analis => dashboard, через ls проеврить наличие файла Project_dashboard.py
+4. Запустить файл через streamlit run Project_dashboard.py
+5. Запустить файл Project_dashboard.py
+
+
+
 ## Автор
 
 Мерзликин Михаил Евгеньевич
