@@ -26,6 +26,7 @@ project/
 ├── scripts/
 │   └── Project_scrips.py
 ├── requirements.txt
+├── env.example
 └── README.md
 ```
 
