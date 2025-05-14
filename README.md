@@ -33,7 +33,7 @@ project/
 
 1. Клонируйте репозиторий и перейдите в директорию проекта.
 2. Установите зависимости: `pip install -r requirements.txt`
-3. Создайте `.env` файл по примеру `.env.example` и укажите `API_ID`, `API_HASH`
+3. Создайте `.env` файл по примеру `.env.example` и укажите `API_ID`, `API_HASH` 
 4. Запустите `fetch_data.py` или `analysis.ipynb`
 
 
